@@ -1,3 +1,5 @@
+package be.intecbrussel;
+
 public class Opdracht6 {
     public static void main(String[] args){
 
