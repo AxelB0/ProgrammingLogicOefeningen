@@ -20,7 +20,6 @@ public class DataTypesApp {
 
 
 
-
         System.out.println(bool1);
         System.out.println(char1);
         System.out.println(byte1);

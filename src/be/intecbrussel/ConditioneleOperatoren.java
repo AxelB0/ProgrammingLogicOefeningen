@@ -13,7 +13,7 @@ public class ConditioneleOperatoren {
 //        System.out.println((i3<i2)?i3:i2);
 
         int a=1,b=2;
-        int result=++a*b--+b<2?--a:++b;
+        int result=++a*b--+b<5?--a:++b;
         System.out.println(result);
 
     }
